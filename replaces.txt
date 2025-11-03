@@ -1,0 +1,5 @@
+31 #insertion_sort_random
+14 #bubble_sort_random
+
+40 #bubble_sort 
+12 #insertion_sort 
